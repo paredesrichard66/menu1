@@ -1,0 +1,34 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://github.com/paredesrichard66/menu1.git" resolutions="1x" timestamp="1619463351383">
+  <folder name="assets">
+    <file name="menu-digital.pdf" crc="363623141" seo="true" mt="1619461380000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3940731046" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4242129463" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:index"/>
+    <file name="pie.js" crc="3831537696" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="1.png" crc="200306661" seo="true" ref="index"/>
+    <file name="2.png" crc="230191332" seo="true" ref="index"/>
+    <file name="3.png" crc="260046425" seo="true" ref="index"/>
+    <file name="4.png" crc="485069061" seo="true" ref="index"/>
+    <file name="5.png" crc="4223517607" seo="true" ref="index"/>
+    <file name="menu154564.jpg" crc="464086953" seo="true" ref="phone>index"/>
+    <file name="logo paraguana.png" crc="447804642" seo="true" ref="phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="491508352" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="385000575" seo="true" mt="1619463341529" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3769542193" seo="true" mt="1619185676864" redirect="true"/>
+</manifest>
