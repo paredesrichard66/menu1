@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://github.com/paredesrichard66/menu1.git/index.html</loc>
+    <lastmod>2021-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://github.com/paredesrichard66/menu1.git/phone/index.html"/>
+  </url>
+  <url>
+    <loc>https://github.com/paredesrichard66/menu1.git/images/menu154564.jpg</loc>
+    <lastmod>2021-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/paredesrichard66/menu1.git/assets/menu-digital.pdf</loc>
+    <lastmod>2021-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/paredesrichard66/menu1.git/images/menu154564363x242.jpg</loc>
+    <lastmod>2021-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://github.com/paredesrichard66/menu1.git/images/logo%20paraguana.png</loc>
+    <lastmod>2021-05-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
